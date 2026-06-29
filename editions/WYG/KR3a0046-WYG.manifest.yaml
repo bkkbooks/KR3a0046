@@ -1,0 +1,136 @@
+canonical_identifier: bkk:krp/KR3a0046/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3a0046/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 御定小學集註
+  date: '2015-08-24 22:58:32.208960'
+  source:
+    repository: kanripo
+    path: KR3a0046
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3a0046_000-WYG.yaml, hash: 'sha256:2d31744546bfa9083438cf086c60a47419799e8a45619e84a54fd138b8152ea4'}
+  - {seq: 1, filename: KR3a0046_001-WYG.yaml, hash: 'sha256:349dad058bdbfc96e5cf0569197095baafedc129696f13a69e09c984e479a814'}
+  - {seq: 2, filename: KR3a0046_002-WYG.yaml, hash: 'sha256:8880cf9bcba8f0bd88c6e7ae46307c48861445ee926fd8eb9abc143bd09f73b5'}
+  - {seq: 3, filename: KR3a0046_003-WYG.yaml, hash: 'sha256:5458dbd5e1aba4b1f7d1a3753f9d27913c8a6f7c21c99ece5e95221c9edfd254'}
+  - {seq: 4, filename: KR3a0046_004-WYG.yaml, hash: 'sha256:0d70ea04a4aab0bac86c36cd233e054fe82317789aaf02dc56eb4edd8b9bd470'}
+  - {seq: 5, filename: KR3a0046_005-WYG.yaml, hash: 'sha256:405e39c5cd4a1a316f5c27cc6d357231563e9ddf8ca5cb9f5ac178b60c66a3f7'}
+  - {seq: 6, filename: KR3a0046_006-WYG.yaml, hash: 'sha256:0cfd064bda59385933cf49c1a557ef8fc2d7b90f8ddf51714cb70266df0ab184'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3a0046_000-WYG.markers.yaml, hash: 'sha256:56c20bc04b8bb27c03d804e7e4ac792c7526d91f222aa443cb14cab15ef849c7'}
+  - {seq: 1, role: markers, filename: assets/KR3a0046_001-WYG.markers.yaml, hash: 'sha256:9be8bc3c5056c89fea3d3e3905f0517eb3ece57318eecb529b18e43d78c582ec'}
+  - {seq: 2, role: markers, filename: assets/KR3a0046_002-WYG.markers.yaml, hash: 'sha256:6691185aa1e081972236d9951f44ffb16a991601e6451dd07b0c8c529a4f6c27'}
+  - {seq: 3, role: markers, filename: assets/KR3a0046_003-WYG.markers.yaml, hash: 'sha256:2ff529676aeee6539d1fa5118fea4dcde47ed44ddb49da9196d7ae0a354d0de8'}
+  - {seq: 4, role: markers, filename: assets/KR3a0046_004-WYG.markers.yaml, hash: 'sha256:f69b620f61e4fb43e5894ca77c84ef75b5b390c6ab873c5e4ef7352712251e00'}
+  - {seq: 5, role: markers, filename: assets/KR3a0046_005-WYG.markers.yaml, hash: 'sha256:4696e00e9b113be0758faf2eae67eb847c3eae2dd7315886a67eaa43639800c4'}
+  - {seq: 6, role: markers, filename: assets/KR3a0046_006-WYG.markers.yaml, hash: 'sha256:3bbefdd9aca22ee5c52fe0d40d77aca4f5c081d62aee02c3be60ed0f3446dd5a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3a0046_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 287
+  label: 御製小學序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3a0046_WYG_000-3a
+    span:
+    - body
+    - 287
+    - 603
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3a0046_WYG_000-5a
+    span:
+    - body
+    - 603
+    - 1239
+  label: 小學原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3a0046_WYG_000-7a
+    span:
+    - body
+    - 1239
+    - 2763
+  label: 小學題辭
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3a0046_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 4531
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3a0046_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 14959
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3a0046_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 5941
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3a0046_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 8861
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3a0046_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 19104
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3a0046_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 17485
+  label: 卷六
+  type: section
+  level: 1
+hash: sha256:be46b366678c89af246bc69020764a61df8eae6afd3a3dbeee10f4fd6528ef92
